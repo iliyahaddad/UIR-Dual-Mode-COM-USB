@@ -1,0 +1,7 @@
+*.o
+*.elf
+*.hex
+usbdrv/
+osccal.c
+osccal.h
+__pycache__/
