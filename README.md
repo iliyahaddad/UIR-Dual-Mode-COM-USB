@@ -105,4 +105,4 @@ tools/      irman_usb_read.py  irman_serial_test.py  test_ir_hash.c
 * KiCad schematic/PCB, release HEX, CI build
 
 ## License
- See [LICENSE.md](LICENSE.md).
+ See [LICENSE](LICENSE).
