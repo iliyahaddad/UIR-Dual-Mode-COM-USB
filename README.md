@@ -105,4 +105,4 @@ tools/      irman_usb_read.py  irman_serial_test.py  test_ir_hash.c
 * KiCad schematic/PCB, release HEX, CI build
 
 ## License
-GPL-3.0-or-later for this project; V-USB keeps its own GPLv2/3-or-commercial license. See [LICENSE-NOTE.md](LICENSE-NOTE.md).
+ See [LICENSE.md](LICENSE.md).
